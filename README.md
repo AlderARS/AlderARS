@@ -5,6 +5,6 @@ Profissional em transição de carreira, entusiasta com técnologia e inovaçõe
 
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlderARS)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlderARS&show_icons=true&theme=radical)
 
 ### Projetos
