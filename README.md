@@ -5,4 +5,4 @@ Apaixonado por técnologia e inovações, desde muito jovem desenvolvendo o pens
 
 ⭐ Habilidades em SQL avançado, Excel avançado, Power BI e Power Query intermediário, Python intermediário, Microsoft Azure AI essentials e Inteligências Artificíais diversas como Gamma, Lovable, Claude, ChatGPT, Gemini, Copilot e N8N)
 
-Projetos de Power BI, Excel e outros que são incompativeis com o Github estarão salvos no Meu linkedIn (link anexado no perfil)
+Projetos de Power BI, Excel e outros que são incompativeis com o Github estarão salvos no meu linkedIn (link anexado no perfil).
