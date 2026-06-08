@@ -1,8 +1,19 @@
-# 🔥 ANDREW SOUZA
-### **`Analista de Dados`**
+# 👋 Olá, eu sou Andrew Souza
 
-Apaixonado por técnologia e inovações, desde muito jovem desenvolvendo o pensamento análitico, estratégia, planejamento e tomada de decisão. Profissional Analista de Dados formado pela EBAC com graduação em andamento pela BYU Pathway Worldwide. Foco em BI e analytics. Aberto a oportunidades de trabalho ou voluntariado na área de dados. 
+🎯 Analista de Dados em formação, apaixonado por tecnologia e inovação. Transformo dados em informações estratégicas para tomada de decisão.
 
-⭐ Habilidades em SQL avançado, Excel avançado, Power BI e Power Query intermediário, Python intermediário, Microsoft Azure AI essentials e Inteligências Artificíais diversas como Gamma, Lovable, Claude, ChatGPT, Gemini, Copilot e N8N.
+## 🚀 Sobre mim
 
-Projetos de Power BI, Excel e outros que são incompativeis com o Github estarão salvos no meu linkedIn (link anexado no perfil).
+- 📊 Foco em Análise de Dados, Business Intelligence e Automação
+- 🎓 Estudante de Tecnologia da Informação (BYU Pathway)
+- 📚 Formação em Análise de Dados pela EBAC
+- 🌎 Inglês Avançado | Espanhol Intermediário
+- 📍 Bahia, Brasil
+
+## 🛠️ Tecnologias core:
+
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Power Query
+- Excel
