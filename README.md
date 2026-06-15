@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Andrew Souza
 
-🎯 Analista de Dados em formação, apaixonado por tecnologia e inovação. Transformo dados em informações estratégicas para tomada de decisão.
+🎯 Analista de Dados, apaixonado por tecnologia e inovação. Transformo dados em informações estratégicas para tomada de decisão.
 
 ## 🚀 Sobre mim
 
