@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Andrew Souza
+# 👋 Olá, eu sou o Andrew Souza
 
 🎯 Analista de Dados, apaixonado por tecnologia e inovação. Transformo dados em informações estratégicas para tomada de decisão.
 
