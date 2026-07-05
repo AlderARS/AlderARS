@@ -14,4 +14,5 @@
 SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Seaborn) | Power BI | Power Query | Excel | Inteligência Artificial
 
 LinkedIn: [Andrew Souza](https://www.linkedin.com/in/andrewars/)
+
 Portfólio Power BI: [Caderno de Projetos](https://sites.google.com/view/projetos-andrewsouza/in%C3%ADcio)
