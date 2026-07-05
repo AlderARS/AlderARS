@@ -1,6 +1,6 @@
 # 👋 Hello there, eu sou o Andrew Souza
 
-🎯Eu simplesmente não me canso de estudar a área de dados, talvez essa seja a minha segunda paixão. Sou curioso, disposto à aprender, com bastante experiência no mercado de trabalho e habilidades interpessoais estou finalmente na área que é a minha vocação. Sou natural da Bahia, gosto das minhas coisas bem organizadas, jogador de xadrez e jogos de estratégia em geral também gosto de cozinhar e fazer atividades físicas. Acredito que após minha especialização vou ir para um caminho mais relacionado para liderança e gerenciamento dentro da área de dados, inclusive já tenho alguma base mas ainda em desenvolvimento.
+🎯Eu simplesmente não me canso de estudar a área de dados, talvez essa seja a minha segunda paixão. Sou curioso, disposto à aprender e já tendo alguma experiência no mercado de trabalho tendo desenvolvido boas habilidades pessoais e interpessoais. Sou natural da Bahia, gosto das minhas coisas bem organizadas, jogador de xadrez e jogos de estratégia em geral também gosto de cozinhar e fazer atividades físicas. Acredito que após minha especialização vou ir para um caminho mais relacionado para liderança e gerenciamento dentro da área de dados, inclusive já tenho alguma base mas ainda em desenvolvimento.
 
 ## 🚀 Sobre mim
 
